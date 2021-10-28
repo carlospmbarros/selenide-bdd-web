@@ -1,2 +1,4 @@
 # selenide-web
-Project demonstrating the different facets of using Selenide + Cucumber 6 JVM
+Project demonstrating the different facets of using Selenide 6.0.1+
+
+
